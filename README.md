@@ -1,4 +1,7 @@
-<a href="https://icons8.com/illustrations/author/mNCLibjicqSz"></a>
+Illustration by <a href="https://icons8.com/illustrations/author/mNCLibjicqSz">Julia K</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
+<img align="center" src="https://icons8.com/illustrations/author/mNCLibjicqSz" alt="groovybaby5" />
+
 <h1 align="center">Hi 👋, I'm Alisa</h1>
 <h3 align="center">A passionate fullstack developer from Saint Petersburg</h3>
 
