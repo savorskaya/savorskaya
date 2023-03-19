@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisa</h1>
 
 <div align="center">
-   <img src="https://giphy.com/gifs/customer-service-help-desk-call-center-lXiRzPb8C5JTJcfPq" height="225px"/>
+   <img src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif" height="225px"/>
 </div>
 
 <h3 align="center">A passionate fullstack developer from Saint Petersburg</h3>
