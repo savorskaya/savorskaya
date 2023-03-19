@@ -1,3 +1,4 @@
+<a href="https://icons8.com/illustrations/author/mNCLibjicqSz"></a>
 <h1 align="center">Hi 👋, I'm Alisa</h1>
 <h3 align="center">A passionate fullstack developer from Saint Petersburg</h3>
 
