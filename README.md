@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/groovybaby5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="groovybaby5" height="30" width="40" /></a>
-<a href="https://t.me/savorskaya" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="savorskaya" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send/?phone=79215547706&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="savorskaya" height="30" width="40" /></a>
+<a href="https://t.me/savorskaya" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="savorskaya" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=79215547706&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="savorskaya" height="40" width="40" /></a>
 </p>
 <!-- 
 [<img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin] -->
