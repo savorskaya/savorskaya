@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋, I'm Alisa</h1>
+
 <div align="center">
-   <img src="https://i.imgur.com/U0jmb.gif" height="225px"/>
+   <img src="https://giphy.com/embed/lXiRzPb8C5JTJcfPq" height="225px"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Alisa</h1>
 <h3 align="center">A passionate fullstack developer from Saint Petersburg</h3>
 
 - 💬 Ask me about **react, redux and Harry Potter facts ⚡️**
