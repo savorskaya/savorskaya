@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" height="225px"/>
+   <img src="https://external-preview.redd.it/Oylvts9kTr9wzm8UnLGK4I8iNrSU_PH15gztSkDiU6M.gif?format=mp4&v=enabled&s=9e8d0bfe98fca7ca216fab78ed029119b93dd389" height="225px"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Alisa</h1>
