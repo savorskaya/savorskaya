@@ -4,7 +4,7 @@
    <img src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif" height="225px"/>
 </div>
 
-<h3 align="center">A passionate fullstack developer from Saint Petersburg</h3>
+<h3 align="center">A passionate frontend developer from Saint Petersburg</h3>
 
 - 💬 Ask me about **react, redux and Harry Potter facts ⚡️**
 
